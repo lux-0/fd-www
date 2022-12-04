@@ -41,13 +41,13 @@ function Start() {
       <div className='border-bottom'>
         <Container>
           <Row style={{ 'padding-top': '3em', 'padding-bottom': '3em' }}>
-            <Col className='d-flex flex-column justify-content-center border- ps-4'>
+            <Col xs={12} md={6} className='d-flex flex-column justify-content-center border- ps-4'>
               <span>
                 <h4>Automated Draining, Selling</h4>
                 <span className='fs-5'>All draining methods are fully automated. No intervention is required to recieve assets from targets. Robust automated asset sale is currently under development.</span>
               </span>
             </Col>
-            <Col className='d-flex flex-column justify-content-center ps-4'>
+            <Col xs={12} md={6} className='d-flex flex-column justify-content-center ps-4'>
               <span>
                 <h4>Many draining methods:</h4>
                 <h5>(Non-standard or restricted methods are available upon request).</h5>
