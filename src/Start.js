@@ -41,7 +41,7 @@ function Start() {
       </Row>
 
       <Row>
-        <Col xs={12} md={6} style={{ 'padding-top': '3em', 'padding-bottom': '3em' }} className='d-flex flex-column justify-content-center border-bottom w-100'>
+        <Col xs={12} lg={6} style={{ 'padding-top': '3em', 'padding-bottom': '3em' }} className='d-flex flex-column justify-content-center border-bottom'>
           <Container className='ps-5'>
             <span>
               <h4>Automated Draining, Selling</h4>
@@ -49,7 +49,7 @@ function Start() {
             </span>
           </Container>
         </Col>
-        <Col xs={12} md={6} style={{ 'padding-top': '3em', 'padding-bottom': '3em' }} className='d-flex flex-column justify-content-center border-bottom w-100'>
+        <Col xs={12} lg={6} style={{ 'padding-top': '3em', 'padding-bottom': '3em' }} className='d-flex flex-column justify-content-center border-bottom'>
           <Container className='ps-5'>
             <span>
               <h4>Many draining methods:</h4>
