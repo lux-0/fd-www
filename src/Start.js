@@ -17,7 +17,7 @@ function Start() {
       <Navbar sticky='top' expand="lg" bg="white" variant="light" className='border-bottom justify-content-center'>
         <Container>
           <Navbar.Brand>
-            <span className='fs-6 fw-bolder'>⚡️ Fast Ethereum Drainer</span>
+            <span className='fs-6 fw-bolder'>⚡️ Flashdrainer</span>
           </Navbar.Brand>
           <div className='d-flex'>
             <Nav>
@@ -31,7 +31,7 @@ function Start() {
       <Row style={{ 'padding-top': '10em', 'padding-bottom': '10em' }} className="d-flex flex-column align-items-center border-bottom">
         <Col md="8" className='d-flex flex-column align-items-center'>
           <span className='text-center pb-3'>
-            <h1>⚡️ Fast Ethereum Drainer</h1>
+            <h1>⚡️ Flashdrainer</h1>
             <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
             <h3 className='text-danger'><s>25%</s> 10% fee for Christmas!</h3>
           </span>
