@@ -21,9 +21,8 @@ function Start() {
           </Navbar.Brand>
           <div className='d-flex'>
             <Nav>
-              <Nav.Link>Contact me on Telegram</Nav.Link>
+              <Nav.Link href='http://t.me/samsungsemicon'>Contact me on Telegram</Nav.Link>
             </Nav>
-            <Button variant='outline-danger' className='ms-3 bg-gradient'>Drain Me!</Button>
           </div>
         </Container>
       </Navbar>
@@ -35,7 +34,7 @@ function Start() {
             <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
             <h3 className='text-danger'><s>25%</s> 10% fee for Christmas!</h3>
           </span>
-          <Button className='bg-gradient'>Contact Me on Telegram</Button>
+          <Button href='http://t.me/samsungsemicon' className='bg-gradient'>Contact Me on Telegram</Button>
         </Col>
       </Row>
 
@@ -90,12 +89,8 @@ function Start() {
               A multi-method drainer has a complicated control flow, and large attack surface. Given the lack of software engineering competence in this domain, many drainers are unreliable [miss hits, infrastructure failure], and are susceptible to cyber attacks.
               <br></br>
               <br></br>
-              I am a university-trained computer scientist, and I employed professional-standard software development practices. You will never miss a hit.
-              <br></br>
-              <br></br>
-              To help back this up, you may try the drainer by clicking the button below. Feel free to test, or attack my infrastructure. Within my capacity to do so, I will pay you for finding good security-related bugs.
+              I am a university-trained computer scientist, and I employed professional-standard software development practices. You will never miss a hit due to incompetence. Further, by using my drainer, you fund advanced feature development beyond the capacity of other drainer devs.
             </span>
-            <Button variant='danger' className='bg-gradient'>Drain Me!</Button>
           </Container>
         </Col>
       </Row>
