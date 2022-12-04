@@ -31,7 +31,7 @@ function Start() {
         <Col md="8" className='d-flex flex-column align-items-center'>
           <span className='text-center pb-3'>
             <h1>⚡️ Flashdrainer</h1>
-            <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
+            <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today-- a 30% fee is not fair to you guys.</h3>
             <h3 className='text-danger'><s>25%</s> 10% fee for Christmas!</h3>
           </span>
           <Button href='http://t.me/samsungsemicon' className='bg-gradient'>Contact Me on Telegram</Button>
