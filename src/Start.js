@@ -96,6 +96,20 @@ function Start() {
           </Container>
         </Col>
       </Row>
+
+      <Row style={{ 'padding-top': '5em', 'padding-bottom': '5em' }} className='d-flex flex-column align-items-center border-bottom'>
+        <Col md={8} lg={6}>
+          <Container className='d-flex flex-column align-items-center'>
+            <h2 className='pb-3 text-center center-text'>Contract and Consultancy Services</h2>
+            <span className='fs-5 pb-3 d-block text-center'>
+              I probably have a working knowledge of almost any programming language you can name, and I believe I know most academically-reputable computational calculi.
+              <br></br>
+              <br></br>
+              If you have a good idea but lack a developer, if you require R&D services, if you require exploit development services; I'd be happy to assist on the cheap-- I'm just trying to pay for my school, little more.
+            </span>
+          </Container>
+        </Col>
+      </Row>
     </>
   );
 }
