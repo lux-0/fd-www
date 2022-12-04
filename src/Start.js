@@ -9,6 +9,7 @@ import {
   Row,
   Alert,
   Badge,
+  Stack,
 } from 'react-bootstrap';
 
 function Start() {
@@ -19,11 +20,13 @@ function Start() {
           <Navbar.Brand>
             <span className='fs-6 fw-bolder'>⚡️ Flashdrainer</span>
           </Navbar.Brand>
-          <div className='d-flex'>
-            <Nav>
+          <Navbar.Toggle />
+          <Navbar.Collapse>
+            <Nav className='ms-auto'>
+              <Nav.Link href='http://t.me/flashdrainer'>Flashdrainer Telegram Channel</Nav.Link>
               <Nav.Link href='http://t.me/samsungsemicon'>Contact me on Telegram</Nav.Link>
             </Nav>
-          </div>
+          </Navbar.Collapse>
         </Container>
       </Navbar>
 
@@ -35,7 +38,10 @@ function Start() {
               <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
               <h3 className='text-danger'><s>20%</s> 10% fee for your first hit!</h3>
             </span>
-            <Button href='http://t.me/samsungsemicon' className='bg-gradient'>Contact Me on Telegram</Button>
+            <div className='d-flex align-items-center'>
+              <Button href='http://t.me/flashdrainer' variant='outline-primary' className='bg-gradient mx-2'>Flashdrainer Telegram Channel</Button>
+              <Button href='http://t.me/samsungsemicon' className='bg-gradient mx-2'>Contact Me on Telegram</Button>
+            </div>
           </Container>
         </Col>
       </Row>
