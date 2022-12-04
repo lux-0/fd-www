@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fed-www/static/css/main.04b560cb.css",
-    "main.js": "/fed-www/static/js/main.9536d533.js",
+    "main.js": "/fed-www/static/js/main.be6a5953.js",
     "index.html": "/fed-www/index.html",
     "main.04b560cb.css.map": "/fed-www/static/css/main.04b560cb.css.map",
-    "main.9536d533.js.map": "/fed-www/static/js/main.9536d533.js.map"
+    "main.be6a5953.js.map": "/fed-www/static/js/main.be6a5953.js.map"
   },
   "entrypoints": [
     "static/css/main.04b560cb.css",
-    "static/js/main.9536d533.js"
+    "static/js/main.be6a5953.js"
   ]
 }
