@@ -89,7 +89,7 @@ function Start() {
               A multi-method drainer has a complicated control flow, and large attack surface. Given the lack of software engineering competence in this domain, many drainers are unreliable [miss hits, infrastructure failure], and are susceptible to cyber attacks.
               <br></br>
               <br></br>
-              I am a university-trained computer scientist, and I employed professional-standard software development practices. You will never miss a hit due to incompetence. Further, by using my drainer, you fund advanced feature development beyond the capacity of other drainer devs.
+              I am a university-trained computer scientist, and I employed professional-standard software development practices. You will never miss a hit due to incompetence. Further, by using my drainer, you fund advanced feature development beyond the capacity of other drainer devs. For example, Monkey Drainer's lack of features and reliability problems have resulted in lower potential profits for his clients. To me, this is unacceptable.
             </span>
           </Container>
         </Col>
