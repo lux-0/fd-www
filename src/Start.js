@@ -28,44 +28,46 @@ function Start() {
       </Navbar>
 
       <Row style={{ 'padding-top': '10em', 'padding-bottom': '10em' }} className="d-flex flex-column align-items-center border-bottom">
-        <Col md="8" className='d-flex flex-column align-items-center'>
-          <span className='text-center pb-3'>
-            <h1>⚡️ Flashdrainer</h1>
-            <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
-            <h3 className='text-danger'><s>20%</s> 10% fee for your first hit!</h3>
-          </span>
-          <Button href='http://t.me/samsungsemicon' className='bg-gradient'>Contact Me on Telegram</Button>
+        <Col md={8}>
+          <Container className='d-flex flex-column align-items-center'>
+            <span className='text-center pb-3'>
+              <h1>⚡️ Flashdrainer</h1>
+              <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
+              <h3 className='text-danger'><s>20%</s> 10% fee for your first hit!</h3>
+            </span>
+            <Button href='http://t.me/samsungsemicon' className='bg-gradient'>Contact Me on Telegram</Button>
+          </Container>
         </Col>
       </Row>
 
-      <div className='border-bottom'>
-        <Container>
-          <Row style={{ 'padding-top': '3em', 'padding-bottom': '3em' }}>
-            <Col xs={12} md={6} className='d-flex flex-column justify-content-center border- ps-4'>
-              <span>
-                <h4>Automated Draining, Selling</h4>
-                <span className='fs-5'>All draining methods are fully automated. No intervention is required to recieve assets from targets. Robust automated asset sale is currently under development.</span>
-              </span>
-            </Col>
-            <Col xs={12} md={6} className='d-flex flex-column justify-content-center ps-4'>
-              <span>
-                <h4>Many draining methods:</h4>
-                <h5>(Non-standard or restricted methods are available upon request).</h5>
-              </span>
-              <ul className='fs-6'>
-                <li>OpenSea order draining (ERC20, ERC721, ERC1155)</li>
-                <li>Non-descript OpenSea draining method (details restricted)</li>
-                <li>Permit (EIP2612) draining</li>
-                <li>Uniswap draining</li>
-                <li>1inch draining</li>
-                <li>3x Non-descript ERC20 draining method (details restricted)</li>
-                <li>2x Non-descript ERC721 draining method (details restricted)</li>
-                <li>3x Non-descript ERC1155 draining methods (details restricted)</li>
-              </ul>
-            </Col>
-          </Row>
-        </Container>
-      </div>
+      <Row>
+        <Col xs={12} md={6} style={{ 'padding-top': '3em', 'padding-bottom': '3em' }} className='d-flex flex-column justify-content-center border-bottom'>
+          <Container className='ps-5'>
+            <span>
+              <h4>Automated Draining, Selling</h4>
+              <span className='fs-5'>All draining methods are fully automated. No intervention is required to recieve assets from targets. Robust automated asset sale is currently under development.</span>
+            </span>
+          </Container>
+        </Col>
+        <Col xs={12} md={6} style={{ 'padding-top': '3em', 'padding-bottom': '3em' }} className='d-flex flex-column justify-content-center border-bottom'>
+          <Container className='ps-5'>
+            <span>
+              <h4>Many draining methods:</h4>
+              <h5>(Non-standard or restricted methods are available upon request).</h5>
+            </span>
+            <ul className='fs-6'>
+              <li>OpenSea order draining (ERC20, ERC721, ERC1155)</li>
+              <li>Non-descript OpenSea draining method (details restricted)</li>
+              <li>Permit (EIP2612) draining</li>
+              <li>Uniswap draining</li>
+              <li>1inch draining</li>
+              <li>3x Non-descript ERC20 draining method (details restricted)</li>
+              <li>2x Non-descript ERC721 draining method (details restricted)</li>
+              <li>3x Non-descript ERC1155 draining methods (details restricted)</li>
+            </ul>
+          </Container>
+        </Col>
+      </Row>
 
       <Row style={{ 'padding-top': '5em', 'padding-bottom': '5em' }} className='d-flex flex-column align-items-center border-bottom'>
         <Col md={8} lg={6}>
