@@ -86,7 +86,7 @@ function Start() {
           <Container className='d-flex flex-column align-items-center'>
             <h2 className='pb-3 text-center center-text'>Quality</h2>
             <span className='fs-5 pb-3 d-block text-center'>
-              A multi-method drainer has a complicated control flow, and large attack surface. Given the lack of software engineering competence in this domain, many drainers are unreliable [miss hits, infrastructure failure], and are susceptible to cyber attacks.
+              A multi-method drainer has a complicated control flow, and large attack surface. Given the lack of software engineering competence in this domain, many drainers are unreliable, and are susceptible to cyber attacks.
               <br></br>
               <br></br>
               I am a university-trained computer scientist, and I employed professional-standard software development practices. You will never miss a hit due to incompetence. Further, by using my drainer, you fund advanced feature development beyond the capacity of other drainer devs.
