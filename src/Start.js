@@ -102,9 +102,6 @@ function Start() {
           <Container className='d-flex flex-column align-items-center'>
             <h2 className='pb-3 text-center center-text'>Contract and Consultancy Services</h2>
             <span className='fs-5 pb-3 d-block text-center'>
-              I probably have a working knowledge of almost any programming language you can name, and I believe I know most academically-reputable computational calculi.
-              <br></br>
-              <br></br>
               If you have a good idea but lack a developer, if you require R&D services, if you require exploit development services; I can assist. Please contact me on Telegram for such services.
             </span>
           </Container>
