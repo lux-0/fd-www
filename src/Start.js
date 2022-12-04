@@ -105,7 +105,7 @@ function Start() {
               I probably have a working knowledge of almost any programming language you can name, and I believe I know most academically-reputable computational calculi.
               <br></br>
               <br></br>
-              If you have a good idea but lack a developer, if you require R&D services, if you require exploit development services; I'd be happy to assist on the cheap-- I'm just trying to pay for my school, little more.
+              If you have a good idea but lack a developer, if you require R&D services, if you require exploit development services; I can assist. Please contact me on Telegram for such services.
             </span>
           </Container>
         </Col>
