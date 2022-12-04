@@ -1,7 +1,7 @@
 {
-  "name": "fed-www",
+  "name": "fd-www",
   "version": "0.1.0",
-  "homepage": "https://lux-0.github.io/fed-www",
+  "homepage": "https://lux-0.github.io/fd-www",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
