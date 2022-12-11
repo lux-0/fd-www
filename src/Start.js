@@ -36,7 +36,7 @@ function Start() {
             <span className='text-center pb-3'>
               <h1>⚡️ Flashdrainer</h1>
               <h3 className='pt-1'>is the most profitable Ethereum drainer-as-a-service available today.</h3>
-              <h3 className='text-danger'><s>20%</s> 10% fee for your first hit!</h3>
+              <h3 className='text-danger'>Now from just a 15% fee!</h3>
             </span>
             <div className='d-flex align-items-center'>
               <Button href='http://t.me/flashdrainer' variant='outline-primary' className='bg-gradient mx-2'>Flashdrainer Telegram Channel</Button>
